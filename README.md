@@ -6,7 +6,7 @@
 
 ## Original Owner
 Oshada Eranga (Era Boy)
-(SE(Ug), Subtitle Creator, Youtuber
+(SE(Ug), Subtitle Creator, Youtuber)
 
 ## Using Youtube Channels
 NeuralNine (https://www.youtube.com/@NeuralNine)

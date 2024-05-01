@@ -1,6 +1,7 @@
 import flet as ft
 
 
+# Calculator App
 def main(page: ft.Page):
     page.title = "Calculator App"
     page.update()
